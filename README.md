@@ -6,10 +6,6 @@ Información sobre todo referente a Tecnologías Web y Mobil.
 Aparte de esto there is no built-in router, contiene mas q todo un administrador de estados de componentes, obviously within a component and with react context also across compoments -Though that is not really a perfect state management solution for fast changes or for high-frecuency changes.
 
 *Como Usar https://github.com/
-email:juancarlos.dergan@gmail.com
-user:jctesla
-pwd:Github1973
-
 -Branching is the way to work on different versions of a repository at one time.
 Have you ever saved different versions of a file? Something like:
 •	story.txt
